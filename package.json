@@ -1,10 +1,10 @@
 {
-  "name": "react-indiana-drag-scroll",
+  "name": "@pablosz/react-indiana-drag-scroll",
   "version": "1.4.3",
   "description": "Implements scroll on drag",
   "author": "Norserium",
   "license": "MIT",
-  "repository": "norserium/react-indiana-drag-scroll",
+  "repository": "PabloSzx/react-indiana-drag-scroll",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
@@ -73,5 +73,6 @@
     "classnames": "^2.2.6",
     "debounce": "^1.2.0",
     "easy-bem": "^1.0.0"
-  }
+  },
+  "private": false
 }
